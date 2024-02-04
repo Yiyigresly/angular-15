@@ -60,3 +60,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
        "build:github":"npm run delete:docs && npm run build:href && npm run copy:dist",
   
        FINALMENTE EJECUTO EN UN SOLO COMANDO : 'npm run build:github'
+5. pROBANDO REPO
